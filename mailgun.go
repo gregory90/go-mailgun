@@ -1,4 +1,4 @@
-package mail
+package mailgun
 
 import (
 	mailgun "github.com/mailgun/mailgun-go"
