@@ -3,7 +3,7 @@ package mailgun
 import (
 	mailgun "github.com/mailgun/mailgun-go"
 
-	. "bitbucket.org/pqstudio/go-webutils/logger"
+	. "github.com/gregory90/go-webutils/logger"
 )
 
 var (
